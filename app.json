@@ -1,7 +1,7 @@
 {
   "name": "Rizkiuserbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://telegra.ph/file/123add5cce1df43811aa3.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -57,7 +57,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": "Asia/Jakarta",
       "required": false
     },
     "UPSTREAM_REPO": {
